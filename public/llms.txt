@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצה לעלות במסה ולבנות שריר אמיתי? מאמן כושר מוסמך עם תוכנית אימונים לעלייה במסה ותזונה מותאמת אישית. הצטרף אלינו והתחל את המסע שלך עוד היום!
+
+### תוכניות
+https://example.com/programs
+גלה תוכניות אימונים לעלייה במסה שנבנו על בסיס מדעי, כולל תוכנית תזונה לבניית שריר מותאמת אישית. כל תוכנית מעוצבת במיוחד עבורך להשגת תוצאות מקסימליות בזמן קצר.
+
+### אודות
+https://example.com/about
+הכר את המאמן שמאחורי הדרך למסה — מאמן כושר לעלייה במסה עם ניסיון מוכח, גישה מדעית ותשוקה אמיתית לעזור לך לשנות את הגוף והחיים שלך לתמיד. הסיפור שלו הוא ההוכחה שלך.
+
+### צור קשר
+https://example.com/contact
+מוכן להתחיל את המסע לעלייה במסה? צור קשר עם מאמן הכושר שלנו עוד היום וקבל ייעוץ ראשוני חינם. יחד נבנה עבורך תוכנית אימונים ותזונה שתשנה את הגוף שלך מהיסוד.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
